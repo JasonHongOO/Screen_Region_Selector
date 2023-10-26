@@ -20,3 +20,5 @@
 調整視窗後的示意圖
 
 ![image](https://github.com/JasonHongOO/Screen_Region_Selector/blob/main/Images/1%20(4).jpg)
+
+### 4 最後按下 Close 按鈕按關閉視窗就回回傳 (Top, Left, Widthm Height)，並同時將資料儲存在 Coordination.json 
